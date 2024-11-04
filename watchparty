@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="">
+  <head>
+    <meta charset="utf-8">
+    <title></title>
+  </head>
+  <body>
+    <link rel="stylesheet" href="wstyle.css">
+    <header></header>
+    <main>
+<div class="row-container">
+  <div class="first-row">
+    <p>Some text</p>
+    <p>And some more text</p>
+  </div>
+  <div class="second-row">
+    <iframe src="https://www.watchparty.me/watch/childlike-time-analyze"></iframe>
+  </div>
+</div>
+</main>
+    <footer></footer>
+  </body>
+</html>
