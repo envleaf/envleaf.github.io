@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About | envleaf</title>
+    <!-- The style.css file allows you to change the look of your web pages.
+         If you include the next line in all your web pages, they will all share the same look.
+         This makes it easier to make new pages for your site. -->
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <img src="about.png" alt="Read more about me here." width="1350" height="150">
+    <a href="https://envleaf.neocities.org">Go back...</a>
+    
+    <!--Begin bio section-->
+    <h1>About me</h1>
+    <p>> Hi there! My name is Ash, and I am a technology enthusiast and hobbyist linguist from the US. I am nonbinary, pansexual, have ADHD, and am an aspiring polyglot.</p>
+<p>> I think I am a far better developer than I am.</p>
+<p>> enby furry femboy lol</p>
+<p>> Free Palestine!</p>
+</p>
+<!-- Game section.-->
+<h2>Games I play (top 5)</h2>
+<a href="https://backloggery.com/envleaf">(You can also check my backloggery to see all games I play.)</a>
+<p>1. Titanfall 2</p>
+<p>2. Fallout: New Vegas</p>
+<p>3. Borderlands</p>
+<p>4. Halo: MCC</p>
+<p>5. COD: MW2 (2009)</p>
+  </body>
+</html>
