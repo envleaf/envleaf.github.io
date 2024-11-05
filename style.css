@@ -9,3 +9,28 @@ body {
   margin-right: auto;
   width: 25%;
 }
+<style>
+a:link {
+  color: ff01ff;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: ff01ff;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: ff01ff;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: ff01ff;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
